@@ -62,8 +62,8 @@ Data Visualization (Power BI)
 Power BI was used to transform the analysis into visual insights.
 
 Dashboard Components:
-Population Distribution Bar Chart
+  Utilization: Population Distribution Bar Chart
 
-Visualized the number of studies and sample representation across populations.
+  Purpose: Visualized the number of studies and sample representation across populations.
 
-Key Takeaway: Although some populations had fewer studies, several demonstrated relatively high prevalence rates, but decreasing over time as work experience is gained by each population. 
+  Key Takeaway: Although some populations had fewer studies, several demonstrated relatively high prevalence rates, but decreasing over time as work experience is gained by each population. 
